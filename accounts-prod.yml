@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Just a barely new message"
+  message: "rabbitMQ"
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}4b57fd0465fdcc3b268ac078585c0dc928451e4e9f1693e7b434e0ae2dd7910b"
